@@ -81,8 +81,8 @@ tensorboardX
 ## 📜 Preparation
 
 You need to follow these steps to **completely** run `ExeCoder`.
-- **Step 1:** Download [XLCoST](#https://github.com/IBM/Drain3) and put it under `data` folder.
-- **Step 2:** Download [deepseek-coder-6.7b-instruct](#https://huggingface.co/deepseek-ai/deepseek-coder-6.7b-instruct) and put it under `checkpoint` folder.
+- **Step 1:** Download [XLCoST](https://github.com/reddy-lab-code-research/XLCoST) and put it under `data` folder.
+- **Step 2:** Download [deepseek-coder-6.7b-instruct](https://huggingface.co/deepseek-ai/deepseek-coder-6.7b-instruct) and put it under `checkpoint` folder.
 - **Step 3:** Download [jdk-10.0.2](#jdk) and put it under `tools` folder.
 - **Step 4:** Prepare the dependencies in [Environment](#Environment).
 
