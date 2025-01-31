@@ -1,6 +1,6 @@
 # 🔥ExeCoder: Empowering Large Language Models with Executability Representation for Code Translation 
 
-[[Project page]](https://execoder4trans.github.io/) [[Paper]](https://arxiv.org)
+[[Project page]](https://execoder4trans.github.io/) [[Paper]](https://arxiv.org/abs/2501.18460)
 
 ​    Minghua He<sup>1</sup>*, Fangkai Yang<sup>2</sup>, Pu Zhao<sup>2</sup>, Wenjie Yin<sup>3</sup>, Yu Kang<sup>2</sup>, Qingwei Lin<sup>2</sup>, Saravan Rajmohan<sup>2</sup>, Dongmei Zhang<sup>2</sup>, Qi Zhang<sup>2</sup>
 
