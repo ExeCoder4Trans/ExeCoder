@@ -115,6 +115,14 @@ sh evaluation.sh
 If you find this paper useful, please consider staring 🌟 this repo and citing 📑 our paper:
 
 ```
-
+@misc{he2025execoderempoweringlargelanguage,
+      title={ExeCoder: Empowering Large Language Models with Executability Representation for Code Translation}, 
+      author={Minghua He and Fangkai Yang and Pu Zhao and Wenjie Yin and Yu Kang and Qingwei Lin and Saravan Rajmohan and Dongmei Zhang and Qi Zhang},
+      year={2025},
+      eprint={2501.18460},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE},
+      url={https://arxiv.org/abs/2501.18460}, 
+}
 ```
 
